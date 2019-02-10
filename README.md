@@ -190,20 +190,4 @@ function draw() {
 }
 
 
-Note:No change,still the same in both
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Note:No change,still the same in both;Shows "error"
